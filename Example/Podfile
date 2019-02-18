@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'XAProject1_Example' do
+  pod 'XAProject1', :path => '../'
+
+  target 'XAProject1_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
