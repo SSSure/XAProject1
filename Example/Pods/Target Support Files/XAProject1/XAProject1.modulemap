@@ -1,0 +1,6 @@
+framework module XAProject1 {
+  umbrella header "XAProject1-umbrella.h"
+
+  export *
+  module * { export * }
+}
