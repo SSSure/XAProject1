@@ -37,7 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		05362F8F17620CB0A1E64672 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		05362F8F17620CB0A1E64672 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		5D8CE7102BB1E6CE0439305E /* Pods_XAProject1_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XAProject1_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58A195388D20070C39A /* XAProject1_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XAProject1_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -65,8 +65,8 @@
 		9AB1CDCADAE25B076689A319 /* Pods-XAProject1_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XAProject1_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-XAProject1_Example/Pods-XAProject1_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		9DACE145A1C08A80F37D8419 /* Pods-XAProject1_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XAProject1_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-XAProject1_Example/Pods-XAProject1_Example.release.xcconfig"; sourceTree = "<group>"; };
 		A35726CBB5AB856C36BA22E0 /* Pods_XAProject1_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XAProject1_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		CAB3BD8588E92A2CE762EB37 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		F971FE5434EB31D82037F418 /* XAProject1.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = XAProject1.podspec; path = ../XAProject1.podspec; sourceTree = "<group>"; };
+		CAB3BD8588E92A2CE762EB37 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		F971FE5434EB31D82037F418 /* XAProject1.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = XAProject1.podspec; path = ../XAProject1.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
